@@ -98,7 +98,9 @@
 
             // if
             /*
-                SELECT host_name, store_number                FROM ECC.STORE, SERVER_TIME_ZONE                WHERE condition;
+                SELECT host_name, store_number
+                FROM ECC.STORE, SERVER_TIME_ZONE
+                WHERE condition;
              */
 
 
